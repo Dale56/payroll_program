@@ -6,7 +6,7 @@ root = Tk()
 root.geometry("400x215")
 root.title("Payroll Program")
 
-# Array of pay codes
+# Array of pay codes/hourly rates
 pay_codes = [10.00, 12.50, 15.00, 17.50, 20.00]
 
 
